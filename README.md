@@ -9,7 +9,7 @@ Dataset: https://drive.google.com/drive/folders/1gH2SjVGgoIxYFwtFLTdt9hqTXc-B-Ux
 
 Model-Variables: https://drive.google.com/drive/folders/1DBWTkcUtzBJdeio-MQVUM61MK18jRGev?usp=sharing
 
-• This repository consists of files required to deploy a 
+• This repository consists of files required to deploy a Face Mask Detection With Computer Vision Using Keras
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
