@@ -3,8 +3,11 @@
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
 
 Download Additional Files :
+
 Dataset: https://drive.google.com/drive/folders/1gH2SjVGgoIxYFwtFLTdt9hqTXc-B-Ux3?usp=sharing
+
 Model-Variables: https://drive.google.com/drive/folders/1DBWTkcUtzBJdeio-MQVUM61MK18jRGev?usp=sharing
+
 • This repository consists of files required to deploy a 
 
 • Please do ⭐ the repository, if it helped you in anyway.
